@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--8hY3GQ04--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/rq48n957djcp028jlv59.jpg">
+[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https:https://github.com/Amjadchatholi/Amjadchatholi/)
 <h3 align="center">A passionate python developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
