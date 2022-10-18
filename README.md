@@ -1,5 +1,9 @@
+<img src="https://www.nic.in/wp-content/uploads/2022/02/LC-NC.png" alt="Italian Trulli">
 <h1 align="center">Hi 👋, I'm Amjad</h1>
 <h3 align="center">A passionate self-taught python developer.My passion for software lies with dreaming up ideas and making them come true with elegant interface.I learned a lot from the open-source community and Python developer who loves to solve problems digitally with top notch technologies.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadchatholi&label=Profile%20views&color=0e75b6&style=flat" alt="amjadchatholi" /> </p>
 
