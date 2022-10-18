@@ -1,4 +1,5 @@
-<img src="https://www.nic.in/wp-content/uploads/2022/02/LC-NC.png" alt="Italian Trulli">
+<img src="https://cdn.ttgtmedia.com/rms/onlineimages/code_g1289411982.jpg" alt="Italian Trulli">
+
 <h1 align="center">Hi 👋, I'm Amjad</h1>
 <h3 align="center">A passionate self-taught python developer.My passion for software lies with dreaming up ideas and making them come true with elegant interface.I learned a lot from the open-source community and Python developer who loves to solve problems digitally with top notch technologies.</h3>
 
